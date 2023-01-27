@@ -8,7 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>branch1</h3>
-브랜치를 작업합니다.
+<h3>branch2</h3>
 </body>
 </html>
